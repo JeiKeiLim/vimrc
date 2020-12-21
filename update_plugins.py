@@ -57,6 +57,7 @@ vim-ruby https://github.com/vim-ruby/vim-ruby
 typescript-vim https://github.com/leafgarland/typescript-vim
 vim-javascript https://github.com/pangloss/vim-javascript
 vim-python-pep8-indent https://github.com/Vimjas/vim-python-pep8-indent
+rainbow https://github.com/luochen1990/rainbow
 """.strip()
 
 GITHUB_ZIP = "%s/archive/master.zip"
