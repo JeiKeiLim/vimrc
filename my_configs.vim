@@ -8,3 +8,4 @@ let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowTo
 " Macros
 let @d='$aimport pdb; pdb.set_trace():w'  " Python debugger
 
+let g:NERDTreeWinPos = "left"
